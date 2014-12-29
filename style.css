@@ -1,0 +1,18 @@
+body {
+  font-family: arial;
+}
+
+#wrapper {
+  width:460px;
+  margin: 0 auto;
+}
+
+#theTimer {
+  text-align: left;
+  font-size: 90px;
+  opacity: .8;
+}
+
+#message {
+  color: red;
+}
